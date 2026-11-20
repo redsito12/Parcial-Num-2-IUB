@@ -1,2 +1,3 @@
 # Parcial-Num-2-IUB
-# DIAGRAMA: <img width="1552" height="1440" alt="Diagrama sin título drawio (1)" src="https://github.com/user-attachments/assets/bedb6649-4b80-417a-ba85-3dc5ad63a020" />
+# DIAGRAMA: <img width="2302" height="1063" alt="Parcial drawio" src="https://github.com/user-attachments/assets/78fc1ac3-b918-47cb-af04-b5090fe42b0f" />
+
