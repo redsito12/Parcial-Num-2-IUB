@@ -1,1 +1,0 @@
-public enum EstadoPedido { PENDIENTE, EN_PRODUCCION, DESPACHADO, CANCELADO }
