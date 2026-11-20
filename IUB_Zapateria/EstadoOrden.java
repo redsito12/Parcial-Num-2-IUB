@@ -1,0 +1,1 @@
+public enum EstadoOrden { PROGRAMADA, EN_PROCESO, TERMINADA, PAUSADA }

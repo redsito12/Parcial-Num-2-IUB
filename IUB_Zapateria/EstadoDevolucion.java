@@ -1,0 +1,1 @@
+public enum EstadoDevolucion { RECIBIDA, EN_REVISION, APROBADA, RECHAZADA, CERRADA }
